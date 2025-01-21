@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+Blogs by Julio
 
-Maybe say a some things about yourself.
+For Those who want to see
 
-Or maybe what you plan to blog about.
+Will contain Writeups, Life Updates, Tips, and Bad Jokes 
