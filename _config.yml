@@ -20,8 +20,6 @@ instagram_username: "tjoe_iglesias"
 #########################################################################################
 theme: "minima"
 
-rss: rss
-
 kramdown:
   syntax_highlighter_opts:
     disable: true
