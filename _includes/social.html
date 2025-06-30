@@ -1,0 +1,23 @@
+<ul class="social-media-list">
+
+  {% if site.github_username %}
+    <li>
+      <a href="https://github.com/{{ site.github_username }}">
+        <svg class="svg-icon"><use xlink:href="#github"></use></svg>
+        <span class="username">{{ site.github_username }}</span>
+      </a>
+    </li>
+  {% endif %}
+
+  {% if site.linkedin_users %}
+    {% for user in site.linkedin_users %}
+      <li>
+        <a href="https://www.linkedin.com/in/{{ user | cgi_escape }}">
+          <svg class="svg-icon"><use xlink:href="#linkedin"></use></svg>
+          <span class="username">{{ user }}</span>
+        </a>
+      </li>
+    {% endfor %}
+  {% endif %}
+
+</ul>
