@@ -7,9 +7,10 @@ description: "Writeups for CTF Team Hun9ry!." # This will show up in places like
 #email: "juliotjoe5@gmail.com"
 #twitter_username: "twitteruser"
 #github_username: "Pancake-SS"
-linkedin_username: "juliotjoe"
-linkedin_username: "tho-kai-syuen-740932253"
-linkedin_username: "huiwen?"
+linkedin_users:
+  - "juliotjoe"
+  - "tho-kai-syuen-740932253"
+  - "huiwen?"
 #facebook_username: username
 #flickr_username: username
 #instagram_username: ""
