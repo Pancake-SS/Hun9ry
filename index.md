@@ -1,5 +1,6 @@
-Blogs by Julio
+Blogs by CTF Team Hun9ry
 
-For Those who want to see
-
-Will contain Writeups, Tips, and ~~Bad Jokes~~ 
+Consisting of:
+- Julio (PancakeSS)
+- Alex
+- and Hui Wen
