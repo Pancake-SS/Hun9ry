@@ -1,4 +1,4 @@
-Blogs by CTF Team Hun9ry
+Writeups by CTF Team Hun9ry
 
 Consisting of:
 - Julio (PancakeSS)
